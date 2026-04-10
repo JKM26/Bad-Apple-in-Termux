@@ -1,6 +1,6 @@
-First Download Termux wich is an Open source App for android devices it requires Android 7 or higher
+First Download Termux which is an Open source App for android devices it requires Android 7 or higher
 
-When youre in Termux you need to get a few i will call them to keep it simple programms
+When youre in Termux you need to get a few i will call them to keep it simple programs
 
 pkg install ffmpeg python
 
@@ -30,6 +30,18 @@ And if you run the run.sh by typing in
 
 bash run.sh
 
-You will get Badapple in ascii with audio 
+You will get Badapple in ASCII with audio 
 
-If you want to stop it just tap Ctrl+C it stops both codes instantly and thats how you rzn Bad Apple in ASCII in Termux
+If you want to stop it just tap Ctrl+C it stops both codes instantly and thats how you run Bad Apple in ASCII in Termux
+
+Also an important note you need everything in one folder i would recommend to you to make a folder called frames where you put all the frames in and a folder where you put all the files in +the folder frames you create folder by running the program
+
+mkdir frames
+
+mkdir Badapple
+
+and you move files by using
+
+mv frames Badapple
+
+Sorry for my bad grammer im german
