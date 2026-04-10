@@ -44,4 +44,6 @@ and you move files by using
 
 mv frames Badapple
 
+If there are any issues just write them into the issues tab and i will look into it and help you
+
 Sorry for my bad grammer im german
